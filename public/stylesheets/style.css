@@ -1,0 +1,18 @@
+.backgroundindex{
+    background-image: url("/images/cinema.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1040px;
+    display:flex;
+    flex-direction: column;
+}
+.h1index{
+    font-family: Arial, Helvetica, sans-serif;
+    float:right;
+    color:white;
+    font-size: 82px;
+    margin-right: 40px;
+}
+.aindex{
+    color:white;
+}

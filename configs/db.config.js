@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-
+const Movie = require('../models/Movie.models.js');
 mongoose
   .connect('mongodb://localhost/express-cinema-dev', {
     useCreateIndex: true,
